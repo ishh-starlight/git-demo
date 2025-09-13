@@ -1,3 +1,5 @@
 # git-demo
-this is my first git repository
-Author-ishika.p
+This is my first git repository.
+<br>
+<h2>Author-ishika.p</h2>
+
